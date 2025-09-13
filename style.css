@@ -131,11 +131,12 @@ section p {
   background: #222;
   color: white;
   border-radius: 8px;
-  text-align: centre;
+ 
 }
 #contact .btn {
   margin-top: 15px;
   display: inline-block;
+  text-align: centre;
 }
 
 /* Footer */
